@@ -5,7 +5,7 @@
    Modified by Garo Malko
    Modified by Karoline Malko
 
-   Latest update 2015-08-28 by F Lundevall
+   Latest update 2020-03-01 by Garo Malko
    
    For copyright and licensing, see file COPYING */
 
